@@ -1,7 +1,7 @@
 import json
 import os
 
-FILE = "API/bd.json"
+FILE = "bd.json"
 def load(file=FILE):
     if not os.path.exists(FILE):
         return {}
