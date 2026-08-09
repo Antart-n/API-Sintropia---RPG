@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 from pydantic import BaseModel
-from API import loadjson
+import loadjson
 
 app = FastAPI()
 
