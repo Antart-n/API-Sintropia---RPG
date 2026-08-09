@@ -1,0 +1,336 @@
+{
+    "isabel": {
+        "informations": {
+            "birth": "19 Ago 1912",
+            "full name": "Isabel Donavan",
+            "id": "091912"
+        },
+        "integrity": {
+            "life": "26",
+            "current life": "26",
+            "defense": 1,
+            "fadigue": 10,
+            "current fadigue": "10"
+        },
+        "attributes": {
+            "agilidade": 2,
+            "força": 1,
+            "influência": 2
+        },
+        "skills": {
+            "furtividade": 5,
+            "percepção": 6,
+            "medicina": 5,
+            "resiliência": 3,
+            "resistência": 2,
+            "labia": 8,
+            "intimidação": 1,
+            "reflexo": 2,
+            "atletismo": 2,
+            "luta": -2,
+            "tecnologia": -1,
+            "pressão": -2
+        },
+        "class": {
+            "doutorado": [
+                "fitoterapeuta"
+            ],
+            "sherlock holmes": [
+                "espião"
+            ],
+            "artifise": [
+                "roteirista"
+            ]
+        },
+        "titles": [],
+        "states": [],
+        "inventory": [
+            {
+                "name": "Caderno de anotações",
+                "description": "",
+                "amount": "",
+                "weight": ""
+            },
+            {
+                "name": "Caneta",
+                "description": "",
+                "amount": "",
+                "weight": ""
+            },
+            {
+                "name": "Livro em andamento",
+                "description": "",
+                "amount": "",
+                "weight": ""
+            },
+            {
+                "name": "Agasalho",
+                "description": "",
+                "amount": "",
+                "weight": ""
+            },
+            {
+                "name": "Roupas",
+                "description": "",
+                "amount": "",
+                "weight": ""
+            },
+            {
+                "name": "Guarda-chuva",
+                "description": "",
+                "amount": "",
+                "weight": ""
+            },
+            {
+                "name": "Potinho de ervas",
+                "description": "",
+                "amount": "",
+                "weight": ""
+            },
+            {
+                "name": "Relógio",
+                "description": "",
+                "amount": "",
+                "weight": ""
+            },
+            {
+                "name": "Bolsa",
+                "description": "",
+                "amount": "",
+                "weight": ""
+            },
+            {
+                "name": "Sinto de bolsas",
+                "description": "",
+                "amount": "",
+                "weight": ""
+            },
+            {
+                "name": "Saco de torradas",
+                "description": "",
+                "amount": "",
+                "weight": ""
+            },
+            {
+                "name": "Sanduiche",
+                "description": "",
+                "amount": "",
+                "weight": ""
+            },
+            {
+                "name": "Cantil",
+                "description": "",
+                "amount": "",
+                "weight": ""
+            }
+        ],
+        "skill": {
+            "o dia da caça": "Permite escolher um oponente para ser marcado como presa para aumentar todas as suas perícias em +3 em todos os testes contra ele, ms pederá -1 em todos os outros testes que não sejam relacionados a ele.",
+            "ó se eu quisesse": "Consegue fazer uma distração para na próxima vez que o caçador procurar, ele caçat no lugar errado e não o encontrar - mesmo com valor crítico",
+            "chá de vó": "consegue fazer um chá de ervas medicinais que pode curar quem está no estado \"Doente\" ou \"Envenenado, ou recuperar 1D4 de vida de quem não está doente e nem envenenado.",
+            "esporos revigorantes": "Arremessa no ar esporos de fungos calmantes que recupera 1D4 de vida de quem está na cena durante 3 rodadas",
+            "isso não é real": "Cria uma realidade na própria cabeça para ganhar +4 na pericia que escolher. Dura uma cena. Só é possível usar uma vez por cena.",
+            "coach motivacional": "Motiva um aliado escolhido para dar o estado \"Adrenalina\" e deixá-lo isento do estado \"Fadiga\", além de dar vantagem em testes de resiliência. Dura um turno."
+        }
+    },
+    "natanael": {
+        "informations": {
+            "birth": "22 Jun 1913",
+            "full name": "Natanael Donavan",
+            "id": "141913"
+        },
+        "integrity": {
+            "life": 39,
+            "current life": 39,
+            "defense": 1,
+            "fadigue": 14,
+            "current fadigue": 14
+        },
+        "attributes": {
+            "strength": 1,
+            "knowledge": 1,
+            "force": 2
+        },
+        "skills": {
+            "perception": 6,
+            "resillience": 1,
+            "resistance": 3,
+            "convence": -3,
+            "reflection": 3,
+            "fight": 5,
+            "technology": 7,
+            "pressure": 2,
+            "impact": 1,
+            "invention": 7,
+            "aim": -3
+        },
+        "class": {
+            "inventor": [
+                "relojoeiro"
+            ],
+            "combatente": [
+                "striker"
+            ]
+        },
+        "titles": [],
+        "states": [],
+        "inventory": [
+            {
+                "name": "Relógio de bolso",
+                "description": "Um simples relógio de bolso",
+                "amount": "1",
+                "weight": "1"
+            },
+            {
+                "name": "Relógio quebrado",
+                "description": "Um relógio comum quebrado",
+                "amount": "1",
+                "weight": "1"
+            },
+            {
+                "name": "Pedaço de Madeira",
+                "description": "",
+                "amount": "1",
+                "weight": ""
+            },
+            {
+                "name": "Faquinha",
+                "description": "",
+                "amount": "1",
+                "weight": ""
+            },
+            {
+                "name": "Ferramentas",
+                "description": "",
+                "amount": "-",
+                "weight": ""
+            },
+            {
+                "name": "Bandagem",
+                "description": "",
+                "amount": "1",
+                "weight": ""
+            },
+            {
+                "name": "Roupas",
+                "description": "",
+                "amount": "-",
+                "weight": ""
+            },
+            {
+                "name": "Comida Entaltada",
+                "description": "",
+                "amount": "5",
+                "weight": ""
+            }
+        ],
+        "skill": {
+            "Sem tempo, meu nobre": "Pode escolher anular a reação ou ação do oponente ao fazer um teste de \"Reflexo\" usando \"Conhecimento\" ou \"Agilidade\" contra ele.",
+            "Eu sabo": "Gasta uma cena inteira para aprender uma habilidade que viu e durante combates consegue copiar as habilidades que ver, mas com desvantagens estabelecidas pelo mestre.",
+            "Combo devastador": "Passa o turno inteiro analisando o oponente para dar uma combinação devastadora de golpes corpo a corpo até falhar no teste de luta. Vale destacar que, caso alguém o interrompa na análise, será necessário tentar novamente.",
+            "Knockdown": "Dá um golpe atordoante que faz o oponente ter desvantagens em todos os testes, além de perder a reação. Dura uma rodada."
+        }
+    },
+    "marta": {
+        "informations": {
+            "birth": "09 de Nov de 1900",
+            "full name": "Märta Donavan",
+            "id": "131900"
+        },
+        "integrity": {
+            "life": "39",
+            "current life": "39",
+            "defense": 1,
+            "fadigue": 12,
+            "current fadigue": "12"
+        },
+        "attributes": {
+            "força": 1,
+            "conhecimento": 2,
+            "vigor": 2
+        },
+        "skills": {
+            "impacto": 0,
+            "pressão": 3,
+            "percepção": 5,
+            "furtividade": 2,
+            "investigação": 5,
+            "tecnologia": 10,
+            "invenção": 10,
+            "luta": 5,
+            "resistência": 3,
+            "resiliência": 1,
+            "labia": -3
+        },
+        "class": {
+            "inventor": [
+                "relojoeiro",
+                "engressor"
+            ],
+            "combatente": [
+                "striker"
+            ]
+        },
+        "titles": [
+            "desenvolvedor"
+        ],
+        "states": [],
+        "inventory": [],
+        "skill": {
+            "Sem tempo, meu nobre": "Pode escolher anular a reação ou ação do oponente ao fazer um teste de \"Reflexo\" usando \"Conhecimento\" ou \"Agilidade\" contra ele.",
+            "Eu sabo": "Gasta uma cena inteira para aprender uma habilidade que viu e durante combates consegue copiar as habilidades que ver, mas com desvantagens estabelecidas pelo mestre.",
+            "Combinação Devastadora": "Passa o turno inteiro analisando o oponente para dar uma combinação devastadora de golpes corpo a corpo até falhar no teste de luta. Vale destacar que, caso alguém o interrompa na análise, será necessário tentar novamente.",
+            "Knockdown": "Dá um golpe atordoante que faz o oponente ter desvantagens em todos os testes, além de perder a reação. Dura uma rodada.",
+            "Buff": "Consegue dar um \"Buff\" (modificar) qualquer objeto para a finalidade que quiser. (A CD do teste de invenção e os limites são definidos pelo mestre)"
+        }
+    },
+    "gregorio": {
+        "informations": {
+            "birth": "A definir",
+            "full name": "Gregório Donavan",
+            "id": "071898"
+        },
+        "integrity": {
+            "life": "26",
+            "current life": "26",
+            "defense": 1,
+            "fadigue": 19,
+            "current fadigue": "19"
+        },
+        "attributes": {
+            "força": 1,
+            "conhecimento": 2,
+            "vigor": 2
+        },
+        "skills": {
+            "impacto": 1,
+            "pressão": 2,
+            "investigação": 5,
+            "invenção": 10,
+            "tecnologia": 3,
+            "percepção": 3,
+            "mira": 3,
+            "medicina": 8,
+            "resistência": 2,
+            "resiliência": 2
+        },
+        "class": {
+            "inventor": [
+                "engressor"
+            ],
+            "doutorado": [
+                "fitoterapeuta"
+            ]
+        },
+        "titles": [
+            "desenvolvedor"
+        ],
+        "states": [],
+        "inventory": [],
+        "skill": {
+            "chá de vó": "Consegue fazer um chá de ervas medicinais que pode curar quem está no estado \"Doente\" ou \"Envenenado\" ou recuperar 1D4 de vida de quem não está doente e nem envenenado.",
+            "esporos revigorantes": "Arremessa no ar esporos de fungos calmantes que recupera 1D4 de vida de quem está na cena durante 3 rodadas",
+            "buff": "Consegue dar um \"Buff\" (modificar) qualquer objeto para a finalidade que quiser. (A CD do teste de invenção e os limites são definidos pelo mestre)"
+        }
+    }
+}
